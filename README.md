@@ -235,10 +235,5 @@ Clean build directory:
 
 ## License
 
-Apache-2.0
+Licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file for details.
 
-If you publish this, add a `LICENSE` file containing the Apache License 2.0 text and (optionally) add SPDX headers such as:
-
-```cpp
-// SPDX-License-Identifier: Apache-2.0
-```
